@@ -1,0 +1,2425 @@
+[
+  {
+    "frame": 0,
+    "ssim": 0.14282862968744778,
+    "motion": 0.0,
+    "objects_video1": {
+      "car": 4,
+      "person": 1,
+      "bus": 1,
+      "truck": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 1,
+    "ssim": 0.14417979874440742,
+    "motion": 0.4692312479019165,
+    "objects_video1": {
+      "car": 4,
+      "person": 2,
+      "bus": 1,
+      "truck": 1,
+      "bird": 4
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 2,
+    "ssim": 0.1461465866125416,
+    "motion": 0.4600662887096405,
+    "objects_video1": {
+      "car": 4,
+      "person": 2,
+      "bus": 1,
+      "truck": 1,
+      "bird": 3
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 3,
+    "ssim": 0.14673598165707077,
+    "motion": 0.43214336037635803,
+    "objects_video1": {
+      "car": 4,
+      "bus": 1,
+      "person": 2,
+      "truck": 1,
+      "bird": 3
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 4,
+    "ssim": 0.14694546999555275,
+    "motion": 0.42755478620529175,
+    "objects_video1": {
+      "car": 4,
+      "person": 2,
+      "bus": 1,
+      "bird": 3,
+      "truck": 3
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 5,
+    "ssim": 0.14451400270519318,
+    "motion": 0.43516942858695984,
+    "objects_video1": {
+      "car": 3,
+      "bus": 1,
+      "person": 2,
+      "bird": 3,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 6,
+    "ssim": 0.14477055032818084,
+    "motion": 0.42113760113716125,
+    "objects_video1": {
+      "car": 4,
+      "bus": 1,
+      "person": 2,
+      "bird": 3,
+      "truck": 3
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 7,
+    "ssim": 0.14349094006009636,
+    "motion": 0.41710740327835083,
+    "objects_video1": {
+      "car": 4,
+      "bus": 1,
+      "person": 2,
+      "bird": 3,
+      "truck": 3
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 8,
+    "ssim": 0.1441134620018186,
+    "motion": 0.4030647575855255,
+    "objects_video1": {
+      "car": 4,
+      "bus": 1,
+      "person": 2,
+      "bird": 3,
+      "truck": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 9,
+    "ssim": 0.14443974216292318,
+    "motion": 0.3802093267440796,
+    "objects_video1": {
+      "car": 4,
+      "bus": 1,
+      "person": 2,
+      "bird": 3,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 10,
+    "ssim": 0.1437090006315463,
+    "motion": 0.3612070083618164,
+    "objects_video1": {
+      "car": 4,
+      "bird": 3,
+      "bus": 1,
+      "person": 2,
+      "truck": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 11,
+    "ssim": 0.14370725541037552,
+    "motion": 0.3515428900718689,
+    "objects_video1": {
+      "car": 4,
+      "bus": 1,
+      "bird": 3,
+      "person": 2,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 12,
+    "ssim": 0.14279159393737947,
+    "motion": 0.35276639461517334,
+    "objects_video1": {
+      "car": 4,
+      "person": 2,
+      "bird": 2,
+      "bus": 1,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 13,
+    "ssim": 0.14113638114070318,
+    "motion": 0.3558923006057739,
+    "objects_video1": {
+      "car": 4,
+      "person": 2,
+      "bird": 3,
+      "truck": 2,
+      "bus": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 14,
+    "ssim": 0.14116428102619144,
+    "motion": 0.3343045115470886,
+    "objects_video1": {
+      "car": 4,
+      "person": 2,
+      "bird": 3,
+      "truck": 3,
+      "bus": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 15,
+    "ssim": 0.1347749990438279,
+    "motion": 0.33310651779174805,
+    "objects_video1": {
+      "car": 4,
+      "person": 2,
+      "truck": 3,
+      "bird": 3,
+      "bus": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 16,
+    "ssim": 0.13359371797340655,
+    "motion": 0.33565443754196167,
+    "objects_video1": {
+      "car": 4,
+      "person": 2,
+      "truck": 3,
+      "bird": 2,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 17,
+    "ssim": 0.13371886178007464,
+    "motion": 0.3550570607185364,
+    "objects_video1": {
+      "car": 5,
+      "person": 1,
+      "truck": 3,
+      "bird": 3,
+      "bus": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 18,
+    "ssim": 0.1370942110950649,
+    "motion": 0.3433142900466919,
+    "objects_video1": {
+      "car": 5,
+      "person": 1,
+      "truck": 3,
+      "bird": 3,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 19,
+    "ssim": 0.13839359423973477,
+    "motion": 0.32904723286628723,
+    "objects_video1": {
+      "car": 5,
+      "person": 1,
+      "truck": 4,
+      "bird": 3,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 20,
+    "ssim": 0.13874543061875286,
+    "motion": 0.31619319319725037,
+    "objects_video1": {
+      "car": 5,
+      "person": 1,
+      "truck": 2,
+      "bird": 3,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 21,
+    "ssim": 0.1389428417416869,
+    "motion": 0.31688812375068665,
+    "objects_video1": {
+      "car": 5,
+      "person": 1,
+      "truck": 1,
+      "bird": 2,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 22,
+    "ssim": 0.1390293388071485,
+    "motion": 0.2906826138496399,
+    "objects_video1": {
+      "car": 5,
+      "person": 1,
+      "truck": 1,
+      "bird": 3,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 23,
+    "ssim": 0.14011347170732277,
+    "motion": 0.29108551144599915,
+    "objects_video1": {
+      "car": 5,
+      "person": 1,
+      "truck": 1,
+      "bird": 2,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 24,
+    "ssim": 0.1399681586751781,
+    "motion": 0.28543534874916077,
+    "objects_video1": {
+      "car": 5,
+      "person": 1,
+      "truck": 1,
+      "bird": 3,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 25,
+    "ssim": 0.1391060561176679,
+    "motion": 0.2902410626411438,
+    "objects_video1": {
+      "car": 5,
+      "person": 1,
+      "truck": 2,
+      "bird": 3,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 26,
+    "ssim": 0.1386030602942445,
+    "motion": 0.2769847512245178,
+    "objects_video1": {
+      "car": 5,
+      "person": 1,
+      "truck": 2,
+      "bird": 3,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 27,
+    "ssim": 0.1376044978828142,
+    "motion": 0.27632081508636475,
+    "objects_video1": {
+      "car": 5,
+      "person": 1,
+      "truck": 1,
+      "bird": 3,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 28,
+    "ssim": 0.13450275209384005,
+    "motion": 0.2706698775291443,
+    "objects_video1": {
+      "car": 5,
+      "person": 1,
+      "truck": 1,
+      "bird": 3,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 29,
+    "ssim": 0.1343013952674451,
+    "motion": 0.2532200813293457,
+    "objects_video1": {
+      "car": 5,
+      "person": 1,
+      "truck": 1,
+      "bird": 3,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 30,
+    "ssim": 0.13500019502819358,
+    "motion": 0.24656544625759125,
+    "objects_video1": {
+      "car": 4,
+      "person": 1,
+      "truck": 1,
+      "bird": 3,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 31,
+    "ssim": 0.1354573072349417,
+    "motion": 0.2658439576625824,
+    "objects_video1": {
+      "car": 4,
+      "person": 1,
+      "truck": 1,
+      "bird": 3,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 32,
+    "ssim": 0.13741512281954324,
+    "motion": 0.26009488105773926,
+    "objects_video1": {
+      "car": 4,
+      "person": 1,
+      "truck": 1,
+      "bird": 3,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 33,
+    "ssim": 0.1378780517135386,
+    "motion": 0.2580878734588623,
+    "objects_video1": {
+      "car": 5,
+      "person": 1,
+      "truck": 1,
+      "bird": 3,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 34,
+    "ssim": 0.1375882396118873,
+    "motion": 0.2406516820192337,
+    "objects_video1": {
+      "car": 4,
+      "person": 2,
+      "truck": 2,
+      "bird": 3,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 35,
+    "ssim": 0.13750883689036025,
+    "motion": 0.22605407238006592,
+    "objects_video1": {
+      "car": 3,
+      "person": 2,
+      "truck": 2,
+      "bird": 2,
+      "bus": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 36,
+    "ssim": 0.13764299359835425,
+    "motion": 0.22319114208221436,
+    "objects_video1": {
+      "car": 3,
+      "person": 2,
+      "truck": 1,
+      "bus": 1,
+      "bird": 3
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 37,
+    "ssim": 0.1375891737424073,
+    "motion": 0.2145196497440338,
+    "objects_video1": {
+      "car": 3,
+      "person": 2,
+      "bus": 1,
+      "truck": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 38,
+    "ssim": 0.13576656777952475,
+    "motion": 0.20332247018814087,
+    "objects_video1": {
+      "car": 3,
+      "person": 2,
+      "bus": 1,
+      "truck": 1,
+      "bird": 3
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 39,
+    "ssim": 0.13603291932853084,
+    "motion": 0.20298698544502258,
+    "objects_video1": {
+      "car": 3,
+      "person": 2,
+      "bus": 1,
+      "truck": 1,
+      "bird": 3
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 40,
+    "ssim": 0.13744324240808603,
+    "motion": 0.18832984566688538,
+    "objects_video1": {
+      "car": 3,
+      "person": 2,
+      "bus": 1,
+      "truck": 1,
+      "bird": 3
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 41,
+    "ssim": 0.1377011960033767,
+    "motion": 0.18523049354553223,
+    "objects_video1": {
+      "car": 3,
+      "bus": 1,
+      "person": 2,
+      "truck": 1,
+      "bird": 3
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 42,
+    "ssim": 0.1374013320140019,
+    "motion": 0.17166262865066528,
+    "objects_video1": {
+      "car": 3,
+      "bus": 1,
+      "person": 2,
+      "bird": 3,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 43,
+    "ssim": 0.13843055460415205,
+    "motion": 0.16998523473739624,
+    "objects_video1": {
+      "car": 3,
+      "person": 2,
+      "bus": 1,
+      "truck": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 44,
+    "ssim": 0.13857200014047208,
+    "motion": 0.16898246109485626,
+    "objects_video1": {
+      "car": 3,
+      "bus": 1,
+      "person": 2,
+      "truck": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 45,
+    "ssim": 0.14048003573753784,
+    "motion": 0.18295162916183472,
+    "objects_video1": {
+      "car": 4,
+      "bus": 1,
+      "person": 1,
+      "truck": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 46,
+    "ssim": 0.14007215133577727,
+    "motion": 0.169090136885643,
+    "objects_video1": {
+      "bus": 1,
+      "car": 4,
+      "person": 1,
+      "truck": 1,
+      "bird": 3
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 47,
+    "ssim": 0.14259596749874331,
+    "motion": 0.15932975709438324,
+    "objects_video1": {
+      "bus": 1,
+      "car": 4,
+      "person": 1,
+      "bird": 3,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 48,
+    "ssim": 0.14596595162390416,
+    "motion": 0.15111997723579407,
+    "objects_video1": {
+      "bus": 1,
+      "car": 5,
+      "person": 1,
+      "bird": 3,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 49,
+    "ssim": 0.1468840677550079,
+    "motion": 0.1481398493051529,
+    "objects_video1": {
+      "bus": 1,
+      "person": 1,
+      "car": 4,
+      "bird": 3,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 50,
+    "ssim": 0.15005949812211755,
+    "motion": 0.15035800635814667,
+    "objects_video1": {
+      "bus": 1,
+      "car": 5,
+      "person": 1,
+      "bird": 2,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 51,
+    "ssim": 0.15006969798793088,
+    "motion": 0.14631900191307068,
+    "objects_video1": {
+      "bus": 1,
+      "car": 3,
+      "person": 2,
+      "bird": 2,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 52,
+    "ssim": 0.15312821435208968,
+    "motion": 0.14185240864753723,
+    "objects_video1": {
+      "bus": 1,
+      "car": 4,
+      "person": 2,
+      "bird": 2,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 53,
+    "ssim": 0.15338903907592327,
+    "motion": 0.1464315801858902,
+    "objects_video1": {
+      "bus": 1,
+      "person": 2,
+      "car": 3,
+      "bird": 2,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 54,
+    "ssim": 0.15391910669224973,
+    "motion": 0.15382562577724457,
+    "objects_video1": {
+      "bus": 1,
+      "person": 2,
+      "car": 3,
+      "bird": 2,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 55,
+    "ssim": 0.1495893964077796,
+    "motion": 0.14838159084320068,
+    "objects_video1": {
+      "bus": 1,
+      "person": 2,
+      "car": 3,
+      "bird": 3,
+      "truck": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 56,
+    "ssim": 0.1494425780191795,
+    "motion": 0.1477307677268982,
+    "objects_video1": {
+      "bus": 1,
+      "car": 3,
+      "person": 3,
+      "truck": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 57,
+    "ssim": 0.1502399475635953,
+    "motion": 0.1565638929605484,
+    "objects_video1": {
+      "bus": 1,
+      "person": 3,
+      "car": 3,
+      "truck": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 58,
+    "ssim": 0.15326370284270038,
+    "motion": 0.15640395879745483,
+    "objects_video1": {
+      "bus": 1,
+      "person": 3,
+      "car": 3,
+      "bird": 2,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 59,
+    "ssim": 0.15299954543765304,
+    "motion": 0.15702657401561737,
+    "objects_video1": {
+      "bus": 1,
+      "person": 3,
+      "car": 3,
+      "truck": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 60,
+    "ssim": 0.15462701337005227,
+    "motion": 0.16733883321285248,
+    "objects_video1": {
+      "bus": 1,
+      "person": 4,
+      "car": 3,
+      "truck": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 61,
+    "ssim": 0.15502281662087675,
+    "motion": 0.18159602582454681,
+    "objects_video1": {
+      "bus": 1,
+      "person": 2,
+      "car": 3,
+      "truck": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 62,
+    "ssim": 0.15452440523198507,
+    "motion": 0.17488645017147064,
+    "objects_video1": {
+      "bus": 1,
+      "car": 3,
+      "person": 2,
+      "truck": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 63,
+    "ssim": 0.15101727982493993,
+    "motion": 0.19566957652568817,
+    "objects_video1": {
+      "bus": 1,
+      "car": 3,
+      "person": 2,
+      "truck": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 64,
+    "ssim": 0.15042730858222012,
+    "motion": 0.1942872554063797,
+    "objects_video1": {
+      "bus": 1,
+      "car": 4,
+      "person": 2,
+      "truck": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 65,
+    "ssim": 0.14535144280236736,
+    "motion": 0.23220473527908325,
+    "objects_video1": {
+      "bus": 1,
+      "car": 4,
+      "person": 2,
+      "bird": 2,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 66,
+    "ssim": 0.14454920887758915,
+    "motion": 0.2348092645406723,
+    "objects_video1": {
+      "bus": 1,
+      "car": 5,
+      "person": 2,
+      "truck": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 67,
+    "ssim": 0.14301935338227273,
+    "motion": 0.25173699855804443,
+    "objects_video1": {
+      "bus": 1,
+      "car": 4,
+      "truck": 1,
+      "person": 2,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 68,
+    "ssim": 0.14216897086422559,
+    "motion": 0.273449569940567,
+    "objects_video1": {
+      "bus": 1,
+      "car": 5,
+      "truck": 1,
+      "person": 2,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 69,
+    "ssim": 0.14181468255128432,
+    "motion": 0.3070460557937622,
+    "objects_video1": {
+      "car": 6,
+      "bus": 1,
+      "person": 2,
+      "truck": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 70,
+    "ssim": 0.14241927544430374,
+    "motion": 0.3412443995475769,
+    "objects_video1": {
+      "car": 4,
+      "bus": 1,
+      "person": 2,
+      "truck": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 71,
+    "ssim": 0.14327745022765195,
+    "motion": 0.3533412516117096,
+    "objects_video1": {
+      "car": 4,
+      "bus": 2,
+      "truck": 1,
+      "bird": 2,
+      "person": 3
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 72,
+    "ssim": 0.14488177121138152,
+    "motion": 0.37079107761383057,
+    "objects_video1": {
+      "car": 4,
+      "bus": 2,
+      "truck": 2,
+      "person": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 73,
+    "ssim": 0.14597637926502358,
+    "motion": 0.4004976749420166,
+    "objects_video1": {
+      "bus": 2,
+      "car": 4,
+      "truck": 1,
+      "person": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 74,
+    "ssim": 0.14490945118172632,
+    "motion": 0.3924606740474701,
+    "objects_video1": {
+      "car": 4,
+      "bus": 2,
+      "truck": 1,
+      "person": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 75,
+    "ssim": 0.14698551846412936,
+    "motion": 0.45646733045578003,
+    "objects_video1": {
+      "car": 4,
+      "bus": 2,
+      "truck": 2,
+      "person": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 76,
+    "ssim": 0.14748471173383398,
+    "motion": 0.4394914209842682,
+    "objects_video1": {
+      "car": 4,
+      "bus": 2,
+      "truck": 2,
+      "person": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 77,
+    "ssim": 0.1467825249765786,
+    "motion": 0.45466068387031555,
+    "objects_video1": {
+      "car": 5,
+      "bus": 2,
+      "person": 1,
+      "truck": 2,
+      "bird": 3
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 78,
+    "ssim": 0.14831179370769984,
+    "motion": 0.46812760829925537,
+    "objects_video1": {
+      "bus": 2,
+      "car": 4,
+      "truck": 2,
+      "bird": 3,
+      "person": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 79,
+    "ssim": 0.14542594347566082,
+    "motion": 0.4734650254249573,
+    "objects_video1": {
+      "bus": 2,
+      "car": 5,
+      "truck": 2,
+      "bird": 3,
+      "person": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 80,
+    "ssim": 0.14859767359713433,
+    "motion": 0.49038243293762207,
+    "objects_video1": {
+      "car": 5,
+      "bus": 2,
+      "truck": 2,
+      "person": 1,
+      "bird": 3
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 81,
+    "ssim": 0.14899194361501666,
+    "motion": 0.5156334042549133,
+    "objects_video1": {
+      "car": 5,
+      "bus": 2,
+      "truck": 2,
+      "person": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 82,
+    "ssim": 0.15015958723798195,
+    "motion": 0.5595014691352844,
+    "objects_video1": {
+      "car": 5,
+      "bus": 2,
+      "truck": 2,
+      "person": 1,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 83,
+    "ssim": 0.15076404099485644,
+    "motion": 0.5263925790786743,
+    "objects_video1": {
+      "car": 3,
+      "bus": 2,
+      "person": 1,
+      "truck": 2,
+      "bird": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 84,
+    "ssim": 0.15242804805538906,
+    "motion": 0.5501381158828735,
+    "objects_video1": {
+      "bus": 2,
+      "car": 4,
+      "person": 1,
+      "bird": 2,
+      "truck": 2
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 85,
+    "ssim": 0.15370922387977673,
+    "motion": 0.5754560232162476,
+    "objects_video1": {
+      "bus": 2,
+      "car": 4,
+      "person": 1,
+      "bird": 2,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 86,
+    "ssim": 0.1574152361176467,
+    "motion": 0.7512044906616211,
+    "objects_video1": {
+      "car": 4,
+      "bus": 2,
+      "person": 1,
+      "bird": 1,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 87,
+    "ssim": 0.16007639652810063,
+    "motion": 0.5681874752044678,
+    "objects_video1": {
+      "bus": 2,
+      "car": 3,
+      "person": 1,
+      "truck": 1,
+      "bird": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 88,
+    "ssim": 0.1616247213365613,
+    "motion": 0.5466977953910828,
+    "objects_video1": {
+      "bus": 2,
+      "car": 3,
+      "person": 1,
+      "truck": 1,
+      "bird": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 89,
+    "ssim": 0.1609462745910161,
+    "motion": 0.5295602083206177,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 4,
+      "truck": 1,
+      "bird": 3
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 90,
+    "ssim": 0.15599991819614079,
+    "motion": 0.5236551761627197,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 4,
+      "bird": 3,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 91,
+    "ssim": 0.15652277716246618,
+    "motion": 0.5026624202728271,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 4,
+      "bird": 2,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 92,
+    "ssim": 0.155065637178501,
+    "motion": 0.4930839538574219,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 4,
+      "bird": 1,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 93,
+    "ssim": 0.15295092603163854,
+    "motion": 0.4804482161998749,
+    "objects_video1": {
+      "bus": 2,
+      "car": 4,
+      "person": 1,
+      "bird": 1,
+      "truck": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 94,
+    "ssim": 0.15233911762590277,
+    "motion": 0.48878926038742065,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 4,
+      "truck": 1,
+      "bird": 1,
+      "handbag": 1
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 95,
+    "ssim": 0.1528551104973821,
+    "motion": 0.47561508417129517,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 4,
+      "bird": 2,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 96,
+    "ssim": 0.15238794984082113,
+    "motion": 0.48247766494750977,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 4,
+      "bird": 2,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 97,
+    "ssim": 0.1538180824887475,
+    "motion": 0.46646082401275635,
+    "objects_video1": {
+      "bus": 3,
+      "person": 1,
+      "car": 4,
+      "bird": 2,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 98,
+    "ssim": 0.1544092528238578,
+    "motion": 0.46174606680870056,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 4,
+      "bird": 2,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 99,
+    "ssim": 0.15343812747960345,
+    "motion": 0.4482426047325134,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 4,
+      "bird": 2,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 100,
+    "ssim": 0.1579647586092847,
+    "motion": 0.4538993239402771,
+    "objects_video1": {
+      "bus": 3,
+      "car": 4,
+      "person": 1,
+      "bird": 1,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 101,
+    "ssim": 0.15658947025899983,
+    "motion": 0.43445709347724915,
+    "objects_video1": {
+      "bus": 3,
+      "car": 4,
+      "person": 1,
+      "bird": 3,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 102,
+    "ssim": 0.15595253371292866,
+    "motion": 0.4251731038093567,
+    "objects_video1": {
+      "bus": 3,
+      "car": 3,
+      "person": 1,
+      "bird": 3,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 103,
+    "ssim": 0.15546555950110114,
+    "motion": 0.39732688665390015,
+    "objects_video1": {
+      "bus": 2,
+      "car": 3,
+      "person": 1,
+      "bird": 3,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 104,
+    "ssim": 0.15589483081976457,
+    "motion": 0.37728366255760193,
+    "objects_video1": {
+      "bus": 2,
+      "car": 3,
+      "person": 1,
+      "bird": 3,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 105,
+    "ssim": 0.151720957164043,
+    "motion": 0.35724538564682007,
+    "objects_video1": {
+      "bus": 3,
+      "car": 2,
+      "person": 1,
+      "bird": 4,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 106,
+    "ssim": 0.15160641623662896,
+    "motion": 0.35356757044792175,
+    "objects_video1": {
+      "bus": 3,
+      "car": 2,
+      "person": 1,
+      "bird": 4,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 107,
+    "ssim": 0.1511563997145952,
+    "motion": 0.34217339754104614,
+    "objects_video1": {
+      "bus": 3,
+      "car": 2,
+      "person": 1,
+      "bird": 5,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 108,
+    "ssim": 0.15325222365321,
+    "motion": 0.3478125333786011,
+    "objects_video1": {
+      "bus": 3,
+      "person": 1,
+      "car": 2,
+      "bird": 3,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 109,
+    "ssim": 0.15337986711565682,
+    "motion": 0.3528573215007782,
+    "objects_video1": {
+      "bus": 3,
+      "person": 1,
+      "car": 2,
+      "bird": 4,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 110,
+    "ssim": 0.15823689547774153,
+    "motion": 0.33144065737724304,
+    "objects_video1": {
+      "bus": 3,
+      "person": 1,
+      "car": 2,
+      "bird": 4,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 111,
+    "ssim": 0.1579593294578111,
+    "motion": 0.3154025673866272,
+    "objects_video1": {
+      "bus": 3,
+      "person": 1,
+      "car": 2,
+      "bird": 2,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 112,
+    "ssim": 0.15493895597286306,
+    "motion": 0.3329213857650757,
+    "objects_video1": {
+      "bus": 3,
+      "person": 1,
+      "car": 2,
+      "bird": 3,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 113,
+    "ssim": 0.15261022163965235,
+    "motion": 0.33238205313682556,
+    "objects_video1": {
+      "bus": 3,
+      "person": 1,
+      "car": 2,
+      "bird": 2,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 114,
+    "ssim": 0.15264988897192652,
+    "motion": 0.3188873529434204,
+    "objects_video1": {
+      "bus": 3,
+      "person": 1,
+      "bird": 2,
+      "car": 3,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 115,
+    "ssim": 0.14985277315463785,
+    "motion": 0.31307145953178406,
+    "objects_video1": {
+      "bus": 3,
+      "person": 1,
+      "bird": 2,
+      "car": 3,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 116,
+    "ssim": 0.1503074965827303,
+    "motion": 0.32015562057495117,
+    "objects_video1": {
+      "bus": 3,
+      "person": 1,
+      "bird": 2,
+      "car": 2,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 117,
+    "ssim": 0.15150740569656684,
+    "motion": 0.3160287141799927,
+    "objects_video1": {
+      "bus": 3,
+      "person": 1,
+      "bird": 2,
+      "car": 2,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 118,
+    "ssim": 0.1534001300747883,
+    "motion": 0.33367910981178284,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 2,
+      "bird": 2,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 119,
+    "ssim": 0.15314884081267843,
+    "motion": 0.3323248326778412,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 2,
+      "bird": 2,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 120,
+    "ssim": 0.15174950570346135,
+    "motion": 0.3356954753398895,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 2,
+      "bird": 2,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 121,
+    "ssim": 0.15175551058590594,
+    "motion": 0.3318904638290405,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 2,
+      "bird": 2,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 122,
+    "ssim": 0.15260010342902924,
+    "motion": 0.3282976448535919,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 2,
+      "bird": 2,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 123,
+    "ssim": 0.15243146809324737,
+    "motion": 0.3186110556125641,
+    "objects_video1": {
+      "bus": 2,
+      "car": 2,
+      "person": 1,
+      "bird": 2,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 124,
+    "ssim": 0.15104640488596838,
+    "motion": 0.32484757900238037,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 3,
+      "bird": 3,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 125,
+    "ssim": 0.1490681566986063,
+    "motion": 0.3227267861366272,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "bird": 3,
+      "car": 3,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 126,
+    "ssim": 0.1495092706550487,
+    "motion": 0.3246570825576782,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 3,
+      "bird": 3,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 127,
+    "ssim": 0.150601310629674,
+    "motion": 0.328225314617157,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 3,
+      "bird": 2,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 128,
+    "ssim": 0.1511827421759902,
+    "motion": 0.3308817744255066,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 3,
+      "bird": 3,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 129,
+    "ssim": 0.15018459864938408,
+    "motion": 0.348430871963501,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 3,
+      "bird": 2,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 130,
+    "ssim": 0.15242473133128967,
+    "motion": 0.3688241243362427,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 3,
+      "bird": 2,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 131,
+    "ssim": 0.15225688478744256,
+    "motion": 0.3601052463054657,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 3,
+      "bird": 2,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 132,
+    "ssim": 0.15568331188743806,
+    "motion": 0.36067885160446167,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 3,
+      "bird": 3,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 133,
+    "ssim": 0.15761479288568878,
+    "motion": 0.40341246128082275,
+    "objects_video1": {
+      "bus": 2,
+      "person": 1,
+      "car": 3,
+      "bird": 2,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 134,
+    "ssim": 0.15758159139213135,
+    "motion": 0.4110013246536255,
+    "objects_video1": {
+      "bus": 3,
+      "person": 2,
+      "car": 3,
+      "bird": 2,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 135,
+    "ssim": 0.15566857803524167,
+    "motion": 0.5099102854728699,
+    "objects_video1": {
+      "bus": 1,
+      "person": 2,
+      "car": 3,
+      "bird": 3,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 136,
+    "ssim": 0.15528317237024114,
+    "motion": 0.5657817125320435,
+    "objects_video1": {
+      "bus": 1,
+      "person": 2,
+      "car": 3,
+      "bird": 3,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 137,
+    "ssim": 0.1543256540768465,
+    "motion": 0.46594828367233276,
+    "objects_video1": {
+      "bus": 1,
+      "person": 2,
+      "car": 3,
+      "bird": 3,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 138,
+    "ssim": 0.15268523673241075,
+    "motion": 0.44554391503334045,
+    "objects_video1": {
+      "bus": 1,
+      "person": 2,
+      "car": 3,
+      "bird": 3,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 139,
+    "ssim": 0.1522224149973167,
+    "motion": 0.46647879481315613,
+    "objects_video1": {
+      "bus": 1,
+      "person": 2,
+      "car": 3,
+      "bird": 3,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 140,
+    "ssim": 0.14880950519049488,
+    "motion": 0.48708200454711914,
+    "objects_video1": {
+      "bus": 1,
+      "person": 2,
+      "bird": 3,
+      "car": 3,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 141,
+    "ssim": 0.14750910192794195,
+    "motion": 0.4909384250640869,
+    "objects_video1": {
+      "bus": 1,
+      "person": 2,
+      "bird": 3,
+      "car": 3,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 142,
+    "ssim": 0.14909056719304056,
+    "motion": 0.5027284622192383,
+    "objects_video1": {
+      "bus": 2,
+      "person": 2,
+      "car": 3,
+      "bird": 3,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 143,
+    "ssim": 0.14763036200849902,
+    "motion": 0.46657902002334595,
+    "objects_video1": {
+      "bus": 2,
+      "person": 3,
+      "bird": 3,
+      "car": 3,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 144,
+    "ssim": 0.14764700900189717,
+    "motion": 0.44764024019241333,
+    "objects_video1": {
+      "bus": 3,
+      "person": 4,
+      "car": 3,
+      "bird": 3,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 145,
+    "ssim": 0.14584082854157063,
+    "motion": 0.4434075355529785,
+    "objects_video1": {
+      "bus": 3,
+      "person": 2,
+      "bird": 3,
+      "car": 3,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 146,
+    "ssim": 0.14666941039298997,
+    "motion": 0.4490993320941925,
+    "objects_video1": {
+      "bus": 3,
+      "person": 3,
+      "bird": 3,
+      "truck": 1,
+      "car": 2,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 147,
+    "ssim": 0.14762755114390416,
+    "motion": 0.4543156921863556,
+    "objects_video1": {
+      "person": 3,
+      "bus": 3,
+      "car": 2,
+      "bird": 3,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 148,
+    "ssim": 0.15124341640260777,
+    "motion": 0.5082420110702515,
+    "objects_video1": {
+      "person": 3,
+      "bus": 3,
+      "bird": 3,
+      "truck": 1,
+      "car": 2,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 149,
+    "ssim": 0.1504098789493483,
+    "motion": 0.4966580271720886,
+    "objects_video1": {
+      "person": 3,
+      "bus": 4,
+      "bird": 4,
+      "car": 2,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 150,
+    "ssim": 0.15297349918982128,
+    "motion": 0.5643620491027832,
+    "objects_video1": {
+      "bus": 4,
+      "person": 3,
+      "bird": 4,
+      "car": 2,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 151,
+    "ssim": 0.15192570926485177,
+    "motion": 0.5147835612297058,
+    "objects_video1": {
+      "bus": 3,
+      "person": 3,
+      "car": 2,
+      "bird": 5,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 152,
+    "ssim": 0.15269645824987474,
+    "motion": 0.5123823285102844,
+    "objects_video1": {
+      "bus": 4,
+      "person": 2,
+      "car": 1,
+      "bird": 5,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 153,
+    "ssim": 0.1535676082780344,
+    "motion": 0.5134521722793579,
+    "objects_video1": {
+      "bus": 3,
+      "person": 3,
+      "car": 1,
+      "bird": 5,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 154,
+    "ssim": 0.15465423869695327,
+    "motion": 0.5518057942390442,
+    "objects_video1": {
+      "bus": 3,
+      "person": 2,
+      "bird": 4,
+      "car": 1,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 155,
+    "ssim": 0.15649712752297074,
+    "motion": 0.5233873724937439,
+    "objects_video1": {
+      "bus": 3,
+      "person": 3,
+      "bird": 5,
+      "truck": 1,
+      "car": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 156,
+    "ssim": 0.15769648107891054,
+    "motion": 0.4827394485473633,
+    "objects_video1": {
+      "bus": 3,
+      "person": 3,
+      "bird": 5,
+      "truck": 1,
+      "car": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 157,
+    "ssim": 0.15697295683992699,
+    "motion": 0.5058179497718811,
+    "objects_video1": {
+      "bus": 2,
+      "person": 3,
+      "bird": 4,
+      "truck": 1,
+      "car": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 158,
+    "ssim": 0.15556138670188752,
+    "motion": 0.46604984998703003,
+    "objects_video1": {
+      "bus": 2,
+      "person": 3,
+      "bird": 4,
+      "car": 1,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 159,
+    "ssim": 0.1540671382672711,
+    "motion": 0.4489935338497162,
+    "objects_video1": {
+      "bus": 3,
+      "person": 3,
+      "bird": 4,
+      "car": 2,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 160,
+    "ssim": 0.1563779510053682,
+    "motion": 0.5120415687561035,
+    "objects_video1": {
+      "bus": 4,
+      "person": 3,
+      "bird": 4,
+      "car": 2,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 161,
+    "ssim": 0.15716875321978804,
+    "motion": 0.5814720988273621,
+    "objects_video1": {
+      "bus": 3,
+      "person": 3,
+      "car": 1,
+      "bird": 4,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 162,
+    "ssim": 0.15915925309348208,
+    "motion": 0.5846388339996338,
+    "objects_video1": {
+      "bus": 3,
+      "person": 3,
+      "car": 2,
+      "bird": 5,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 163,
+    "ssim": 0.1578864156195111,
+    "motion": 0.5326505303382874,
+    "objects_video1": {
+      "bus": 3,
+      "person": 3,
+      "car": 2,
+      "bird": 4,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 164,
+    "ssim": 0.15714321912526963,
+    "motion": 0.5261138677597046,
+    "objects_video1": {
+      "bus": 3,
+      "person": 3,
+      "car": 2,
+      "bird": 4,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 165,
+    "ssim": 0.155493999421342,
+    "motion": 0.5245786309242249,
+    "objects_video1": {
+      "person": 3,
+      "bus": 3,
+      "car": 2,
+      "bird": 4,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 166,
+    "ssim": 0.15686989018091155,
+    "motion": 0.5364887714385986,
+    "objects_video1": {
+      "bus": 2,
+      "person": 3,
+      "car": 2,
+      "bird": 4,
+      "truck": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 167,
+    "ssim": 0.15679544928432065,
+    "motion": 0.48576197028160095,
+    "objects_video1": {
+      "bus": 2,
+      "person": 3,
+      "car": 2,
+      "bird": 6,
+      "truck": 0,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 168,
+    "ssim": 0.1569267681402475,
+    "motion": 0.4405215382575989,
+    "objects_video1": {
+      "bus": 2,
+      "car": 2,
+      "person": 3,
+      "bird": 4,
+      "truck": 1,
+      "backpack": 1,
+      "handbag": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 169,
+    "ssim": 0.15602482249951838,
+    "motion": 0.39804744720458984,
+    "objects_video1": {
+      "bus": 2,
+      "person": 3,
+      "car": 2,
+      "bird": 3,
+      "truck": 1,
+      "handbag": 0,
+      "backpack": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 170,
+    "ssim": 0.159271451482638,
+    "motion": 0.38573789596557617,
+    "objects_video1": {
+      "bus": 1,
+      "car": 2,
+      "person": 3,
+      "bird": 2,
+      "truck": 2,
+      "handbag": 0,
+      "backpack": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 171,
+    "ssim": 0.15781480614547821,
+    "motion": 0.38282689452171326,
+    "objects_video1": {
+      "bus": 1,
+      "bird": 2,
+      "person": 3,
+      "car": 3,
+      "truck": 2,
+      "handbag": 0,
+      "backpack": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 172,
+    "ssim": 0.15392974085479796,
+    "motion": 0.4169040024280548,
+    "objects_video1": {
+      "bus": 2,
+      "bird": 3,
+      "person": 3,
+      "car": 3,
+      "truck": 1,
+      "handbag": 0,
+      "backpack": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 173,
+    "ssim": 0.15291695908128403,
+    "motion": 0.40769314765930176,
+    "objects_video1": {
+      "bus": 2,
+      "bird": 2,
+      "person": 3,
+      "car": 2,
+      "truck": 1,
+      "handbag": 0,
+      "backpack": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 174,
+    "ssim": 0.14974371330466454,
+    "motion": 0.40849247574806213,
+    "objects_video1": {
+      "bus": 2,
+      "person": 3,
+      "bird": 2,
+      "truck": 1,
+      "car": 3,
+      "handbag": 0,
+      "backpack": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 175,
+    "ssim": 0.14805704635346123,
+    "motion": 0.38937804102897644,
+    "objects_video1": {
+      "bus": 2,
+      "bird": 2,
+      "person": 3,
+      "car": 2,
+      "truck": 1,
+      "handbag": 0,
+      "backpack": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 176,
+    "ssim": 0.14878444412621541,
+    "motion": 0.3833998739719391,
+    "objects_video1": {
+      "bus": 2,
+      "bird": 2,
+      "person": 3,
+      "truck": 1,
+      "car": 3,
+      "handbag": 0,
+      "backpack": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 177,
+    "ssim": 0.14944762470489387,
+    "motion": 0.35542410612106323,
+    "objects_video1": {
+      "bus": 1,
+      "bird": 2,
+      "person": 3,
+      "truck": 1,
+      "car": 4,
+      "handbag": 0,
+      "backpack": 0
+    },
+    "objects_video2": {}
+  },
+  {
+    "frame": 178,
+    "ssim": 0.1498421571690754,
+    "motion": 0.37736472487449646,
+    "objects_video1": {
+      "bus": 2,
+      "person": 3,
+      "bird": 2,
+      "car": 3,
+      "truck": 0,
+      "handbag": 0,
+      "backpack": 0
+    },
+    "objects_video2": {}
+  }
+]
